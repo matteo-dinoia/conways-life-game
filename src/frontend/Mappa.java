@@ -1,4 +1,4 @@
-
+package frontend;
 
 public class Mappa {
 	public Pannello p=new Pannello(this);
